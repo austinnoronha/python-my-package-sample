@@ -1,0 +1,18 @@
+[project]
+name = "my_package"
+version = "0.0.1"
+authors = [
+  { name="Austin Noronha", email="austindevsmash@gmail.com" },
+]
+description = "A sample my package for learning to build a python package from scratch"
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+Homepage = "https://.../project"
+Issues = "https://.../project/issues"
