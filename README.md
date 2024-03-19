@@ -69,7 +69,7 @@ OK
 
 ## Contribution
 
-Contributions to this project are welcome! If you encounter any issues or have suggestions for improvements, please feel free to [raise an issue](https://github.com/your_username/sample-package/issues) or [submit a pull request](https://github.com/your_username/sample-package/pulls).
+Contributions to this project are welcome! If you encounter any issues or have suggestions for improvements, please feel free to [raise an issue](https://github.com/austinnoronha/python-my-package-sample/issues) or [submit a pull request](https://github.com/austinnoronha/python-my-package-sample/pulls).
 
 ## License
 
